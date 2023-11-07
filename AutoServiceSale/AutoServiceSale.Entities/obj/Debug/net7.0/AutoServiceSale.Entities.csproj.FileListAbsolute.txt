@@ -1,0 +1,14 @@
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\bin\Debug\net7.0\AutoServiceSale.Entities.deps.json
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\bin\Debug\net7.0\AutoServiceSale.Entities.runtimeconfig.json
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\bin\Debug\net7.0\AutoServiceSale.Entities.dll
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\bin\Debug\net7.0\AutoServiceSale.Entities.pdb
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\obj\Debug\net7.0\AutoServiceSale.Entities.csproj.AssemblyReference.cache
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\obj\Debug\net7.0\AutoServiceSale.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\obj\Debug\net7.0\AutoServiceSale.Entities.AssemblyInfoInputs.cache
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\obj\Debug\net7.0\AutoServiceSale.Entities.AssemblyInfo.cs
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\obj\Debug\net7.0\AutoServiceSale.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\obj\Debug\net7.0\AutoServiceSale.Entities.dll
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\obj\Debug\net7.0\refint\AutoServiceSale.Entities.dll
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\obj\Debug\net7.0\AutoServiceSale.Entities.pdb
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\obj\Debug\net7.0\AutoServiceSale.Entities.genruntimeconfig.cache
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Entities\obj\Debug\net7.0\ref\AutoServiceSale.Entities.dll

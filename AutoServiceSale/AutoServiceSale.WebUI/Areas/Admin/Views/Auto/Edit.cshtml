@@ -1,0 +1,96 @@
+﻿@model AutoServiceSale.Entities.Concrete.Auto
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Auto</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="Picture1URL" />
+            <input type="hidden" asp-for="Picture2URL" />
+            <input type="hidden" asp-for="Picture3URL" />
+            <div class="form-group">
+                <label asp-for="BrandId" class="control-label">Brand</label>
+                <select asp-for="BrandId" class="form-select" asp-items="ViewBag.BrandId"></select>
+                <span asp-validation-for="BrandId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Color" class="control-label"></label>
+                <input asp-for="Color" class="form-control" />
+                <span asp-validation-for="Color" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Model" class="control-label"></label>
+                <input asp-for="Model" class="form-control" />
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberPlate" class="control-label"></label>
+                <input asp-for="NumberPlate" class="form-control" />
+                <span asp-validation-for="NumberPlate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BanType" class="control-label"></label>
+                <input asp-for="BanType" class="form-control" />
+                <span asp-validation-for="BanType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ModelYear" class="control-label"></label>
+                <input asp-for="ModelYear" class="form-control" />
+                <span asp-validation-for="ModelYear" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsOnSale" /> @Html.DisplayNameFor(model => model.IsOnSale)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsHomePage" /> @Html.DisplayNameFor(model => model.IsHomePage)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Notes" class="control-label"></label>
+                <input asp-for="Notes" class="form-control" />
+                <span asp-validation-for="Notes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Picture1URL" class="control-label">Picture 1</label>
+                <input asp-for="Picture1URL" class="form-control" type="file" />
+                <span asp-validation-for="Picture1URL" class="text-danger"></span>
+                <img src="/Img/Autos/@Model.Picture1URL" alt="" height="75" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Picture2URL" class="control-label">Picture 2</label>
+                <input asp-for="Picture2URL" class="form-control" type="file" />
+                <span asp-validation-for="Picture2URL" class="text-danger"></span>
+                <img src="/Img/Autos/@Model.Picture2URL" alt="" height="75" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Picture3URL" class="control-label">Picture 3</label>
+                <input asp-for="Picture3URL" class="form-control" type="file" />
+                <span asp-validation-for="Picture3URL" class="text-danger"></span>
+                <img src="/Img/Autos/@Model.Picture3URL" alt="" height="75" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-success" />
+                <a asp-action="Index" value="Cancel" class="btn btn-warning">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

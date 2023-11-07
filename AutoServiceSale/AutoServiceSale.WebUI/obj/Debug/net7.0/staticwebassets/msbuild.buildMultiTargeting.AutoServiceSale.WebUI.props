@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AutoServiceSale.WebUI.props" />
+</Project>

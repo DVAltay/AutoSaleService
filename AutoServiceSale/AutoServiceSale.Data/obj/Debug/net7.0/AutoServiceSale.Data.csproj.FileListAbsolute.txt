@@ -1,0 +1,17 @@
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\bin\Debug\net7.0\AutoServiceSale.Data.deps.json
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\bin\Debug\net7.0\AutoServiceSale.Data.runtimeconfig.json
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\bin\Debug\net7.0\AutoServiceSale.Data.dll
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\bin\Debug\net7.0\AutoServiceSale.Data.pdb
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\bin\Debug\net7.0\AutoServiceSale.Entities.dll
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\bin\Debug\net7.0\AutoServiceSale.Entities.pdb
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\AutoServiceSale.Data.csproj.AssemblyReference.cache
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\AutoServiceSale.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\AutoServiceSale.Data.AssemblyInfoInputs.cache
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\AutoServiceSale.Data.AssemblyInfo.cs
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\AutoServiceSale.Data.csproj.CoreCompileInputs.cache
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\AutoServiceSale.Data.csproj.CopyComplete
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\AutoServiceSale.Data.dll
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\refint\AutoServiceSale.Data.dll
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\AutoServiceSale.Data.pdb
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\AutoServiceSale.Data.genruntimeconfig.cache
+C:\Users\Altay\source\repos\AutoServiceSale\AutoServiceSale.Data\obj\Debug\net7.0\ref\AutoServiceSale.Data.dll

@@ -1,0 +1,83 @@
+﻿@model AutoServiceSale.Entities.Concrete.Service
+
+@{
+    ViewData["Title"] = "Edit Service";
+}
+
+<h1>Edit Service</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="InServiceDate" class="control-label"></label>
+                <input asp-for="InServiceDate" class="form-control" />
+                <span asp-validation-for="InServiceDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OutServiceDate" class="control-label"></label>
+                <input asp-for="OutServiceDate" class="form-control" />
+                <span asp-validation-for="OutServiceDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AutoTrouble" class="control-label"></label>
+                <input asp-for="AutoTrouble" class="form-control" />
+                <span asp-validation-for="AutoTrouble" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ServicePrice" class="control-label"></label>
+                <input asp-for="ServicePrice" class="form-control" />
+                <span asp-validation-for="ServicePrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DoneProcess" class="control-label"></label>
+                <input asp-for="DoneProcess" class="form-control" />
+                <span asp-validation-for="DoneProcess" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="InWarranty" /> @Html.DisplayNameFor(model => model.InWarranty)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="AutoNumberPlate" class="control-label"></label>
+                <input asp-for="AutoNumberPlate" class="form-control" />
+                <span asp-validation-for="AutoNumberPlate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Brand" class="control-label"></label>
+                <input asp-for="Brand" class="form-control" />
+                <span asp-validation-for="Brand" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Model" class="control-label"></label>
+                <input asp-for="Model" class="form-control" />
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BanType" class="control-label"></label>
+                <input asp-for="BanType" class="form-control" />
+                <span asp-validation-for="BanType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BanNo" class="control-label"></label>
+                <input asp-for="BanNo" class="form-control" />
+                <span asp-validation-for="BanNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Notes" class="control-label"></label>
+                <input asp-for="Notes" class="form-control" />
+                <span asp-validation-for="Notes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-success" />
+                <a asp-action="Index" value="Cancel" class="btn btn-warning">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+

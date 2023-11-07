@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AutoServiceSale.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AutoServiceSale.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\1200px-Chevrolet_Cruze_interior_-_PSM_2009.jpg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\1200px-Chevrolet_Cruze_interior_-_PSM_2009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\2017_toyota_corolla_xse.jpg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\2017_toyota_corolla_xse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\2017_toyota_corolla_xse_022_aee8ee7b25ecaae8c393905279f4d46c928584d5.jpg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\2017_toyota_corolla_xse_022_aee8ee7b25ecaae8c393905279f4d46c928584d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\a4a4dashboard.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\a4a4dashboard.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\a4a4rightfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\a4a4rightfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\camrycamryrightfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\camrycamryrightfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\camrytoyotacamrydashboard22.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\camrytoyotacamrydashboard22.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\compasscompassrightfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\compasscompassrightfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\compasscompasssteeringwheel.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\compasscompasssteeringwheel.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\corolla.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\corolla.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\cruze.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\cruze.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\cruzeee.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\cruzeee.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\ev6ev6dashboard.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\ev6ev6dashboard.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\ev6ev6rightfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\ev6ev6rightfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\grandvitaragrandvitaradashboard.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\grandvitaragrandvitaradashboard.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\grandvitaragrandvitararightfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\grandvitaragrandvitararightfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\i20nlinei20nlinerightfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\i20nlinei20nlinerightfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\i20nlinei20nlinesteeringwheel.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\i20nlinei20nlinesteeringwheel.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\ioniq5ioniqdashboard.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\ioniq5ioniqdashboard.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\ioniq5ioniqrightfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\ioniq5ioniqrightfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\newgenswiftnewgenswiftdashboard.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\newgenswiftnewgenswiftdashboard.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\newgenswiftnewgenswiftleftfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\newgenswiftnewgenswiftleftfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\rangeroverevoquelandroverrangeroverevoquedashboard.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\rangeroverevoquelandroverrangeroverevoquedashboard.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\rangeroverevoquerangeroverevoquerightfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\rangeroverevoquerangeroverevoquerightfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\rangeroverrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\rangeroverrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\rangerovoquedashboard.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\rangerovoquedashboard.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\seltosseltosdashboard.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\seltosseltosdashboard.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\seltosseltosrightfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\seltosseltosrightfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\tribertriberrightfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\tribertriberrightfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Autos\\tribertribersteeringwheel.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Autos\\tribertribersteeringwheel.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Slider\\11.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Slider\\corolla.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\corolla.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Slider\\cruze.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\cruze.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Slider\\ev6.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\ev6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Slider\\newgenswiftnewgenswiftdashboard.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\newgenswiftnewgenswiftdashboard.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Slider\\newgenswiftnewgenswiftleftfrontthreequarter.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\newgenswiftnewgenswiftleftfrontthreequarter.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Slider\\s1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Slider\\s2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\Img\\Slider\\swift.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\swift.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\401.html",
+      "PackagePath": "staticwebassets\\admin\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\404.html",
+      "PackagePath": "staticwebassets\\admin\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\500.html",
+      "PackagePath": "staticwebassets\\admin\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\charts.html",
+      "PackagePath": "staticwebassets\\admin\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\index.html",
+      "PackagePath": "staticwebassets\\admin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\admin\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\layout-static.html",
+      "PackagePath": "staticwebassets\\admin\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\login.html",
+      "PackagePath": "staticwebassets\\admin\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\password.html",
+      "PackagePath": "staticwebassets\\admin\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\register.html",
+      "PackagePath": "staticwebassets\\admin\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\admin\\tables.html",
+      "PackagePath": "staticwebassets\\admin\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Altay\\source\\repos\\AutoServiceSale\\AutoServiceSale.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AutoServiceSale.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AutoServiceSale.WebUI.props",
+      "PackagePath": "build\\AutoServiceSale.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AutoServiceSale.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\AutoServiceSale.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AutoServiceSale.WebUI.props",
+      "PackagePath": "buildTransitive\\AutoServiceSale.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
